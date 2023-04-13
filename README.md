@@ -4,3 +4,7 @@
 1. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 2. [Valid Palindrom](https://leetcode.com/problems/valid-palindrome/)
 3. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+
+
+### Medium
+1. [Coin Change](https://leetcode.com/problems/coin-change/)
